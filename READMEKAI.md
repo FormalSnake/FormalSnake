@@ -18,7 +18,7 @@
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/js.png"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/ts.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/git.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/github.svg" />
 <br />
 <br />
 
