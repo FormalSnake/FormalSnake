@@ -3,8 +3,8 @@
 (Use dark theme to find my socials ;)
 
 <a href="https://www.canarycoders.es" target="_blank"><img align="left" alt="canarycoders.es" width="22px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/www.svg" /></a>
-<a href="https://www.linkedin.com/in/kdesutter/" target="_blank"><img align="left" alt="Kai De Sutter | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://twitter.com/kaiiserni" target="_blank"><img align="left" alt="Kaiiserni | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.linkedin.com/in/kdesutter/" target="_blank"><img align="left" alt="Kai De Sutter | LinkedIn" width="22px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/linkedin.svg" />
+<a href="https://twitter.com/kaiiserni" target="_blank"><img align="left" alt="Kaiiserni | Twitter" width="22px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/twitter.svg" />
 
 <br />
 <br />
