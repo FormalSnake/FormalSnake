@@ -17,6 +17,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="C" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/js.png"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/FormalSnake/FormalSnake/blob/main/images/rust.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
