@@ -91,7 +91,7 @@
 <hr/>
 <br/>
 
-![FormalSnake's streak](https://github-readme-streak-stats.herokuapp.com/?user=formalsnake&theme=radical&border=E4E2E2&background=0D1117)
+[![FormalSnake's Streak](https://streak-stats.demolab.com?user=FormalSnake&theme=dark&background=0D1117)](https://git.io/streak-stats)
 
 [![FormalSnake's github stats](https://github-readme-stats.vercel.app/api?username=FormalSnake&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
   
