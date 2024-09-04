@@ -42,11 +42,11 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://camo.githubusercontent.com/7c74615a4df82d732377c47aad4dda5b8d1f3670006aa3b4acf758115f10dfb1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6349336541564c586a343841414141432f68656c6c6f2d776f726c642e676966" alt="Coding gif" />
+ <img align="right" width="350" src="https://www.formalsnake.dev/assets/social.png" alt="Social" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: kakskemail@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: hello@formalsnake.dev<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/FormalSnake/FormalSnake/issues)
 
 </p>
