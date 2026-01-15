@@ -60,9 +60,9 @@ A declarative config manager for MacOS and Linux
 </td>
 <td width="50%">
 
-**[🌐 Formalsurf](https://github.com/FormalSnake/Formalsurf)**
+**[🌐 Lynk Browser](https://github.com/FormalSnake/Lynk-releases)**
 <br>
-A minimalist browser built with Electron and React. Clean, fast, and distraction-free browsing.
+A modern, Arc-inspired browser built with Electron. Fast, private, and extensible.
 
 </td>
 </tr>
