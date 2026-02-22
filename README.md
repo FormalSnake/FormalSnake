@@ -14,12 +14,14 @@
 
 ### About Me
 
-I build things that I find interesting — from web apps and custom tools to browser experiments and system configurations. I'm currently a student at **ULPGC** studying Computer Engineering while running **CanaryCoders SLU**.
+I'm a Belgian developer & designer living in the Canary Islands. I build things that I find interesting — from web apps and custom tools to browser experiments and system configurations. Currently in my first year of **Computer Engineering at ULPGC** while running **CanaryCoders SLU**.
 
 ```javascript
 const kyan = {
   location: "Canary Islands, Spain 🇮🇨",
-  code: ["TypeScript", "JavaScript", "Rust", "CSS"],
+  origin: "Belgium 🇧🇪",
+  languages: ["Dutch", "English", "Spanish", "French"],
+  code: ["TypeScript", "React", "C#", "Rust", "Go", "Python"],
   focus: "Building elegant, performant applications",
   btw: "I use Arch"
 };
@@ -90,7 +92,7 @@ Figma plugin for generating beautiful progressive blur effects on your designs.
 
 ### 🎯 Current Focus
 
-`🔎 Finishing university` · `🏝️ Building CanaryPulse` · `🧠 Exploring AI agents` · `📖 Getting more organized`
+`🔎 Finishing first year at ULPGC` · `🏝️ Building CanaryPulse` · `🧠 Exploring AI agents` · `📖 Getting more organized`
 
 <br>
 
