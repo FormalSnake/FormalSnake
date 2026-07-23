@@ -1,101 +1,22 @@
-<div align="center">
+```text
 
-# Hey, I'm Kyan 👋
-
-**Developer & Designer from the Canary Islands 🏝️**
-
-[![Website](https://img.shields.io/badge/formalsnake.dev-0D1117?style=for-the-badge&logo=Safari&logoColor=white)](https://formalsnake.dev)
-[![Twitter](https://img.shields.io/badge/@FormalSnake-0D1117?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/FormalSnake)
-[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/invite/nwRrjPSaTM)
-
-</div>
-
----
-
-### About Me
-
-I'm a Belgian developer & designer living in the Canary Islands. I build things that I find interesting — from web apps and custom tools to browser experiments and system configurations. Currently in my first year of **Computer Engineering at ULPGC** while running **CanaryCoders SLU**.
-
-```javascript
-const kyan = {
-  location: "Canary Islands, Spain 🇮🇨",
-  origin: "Belgium 🇧🇪",
-  languages: ["Dutch", "English", "Spanish", "French"],
-  code: ["TypeScript", "React", "C#", "Rust", "Go", "Python"],
-  focus: "Building elegant, performant applications",
-  btw: "I use Arch"
-};
+                    .
+               ".:::::::..!.
+             ".:::::::':::::...           kyan@formalsnake.dev
+           .~.:````````````::::..         --------------------
+           ;E``_yyg$$@@@@$gy``::C         Name:      Kyan De Sutter
+           ;0y$@@@@@@@@@@@@@L``'9.        Alias:     FormalSnake
+           _$@@@y_~M@@@@@@@@@;`'P.        Role:      Software engineer @ CanaryCoders
+          f@@@PE~5@g@@@~~~_4@$Bsr         Origin:    Belgium
+    ,...  g@@@@@yg$$@@@EFP@@@@@!.         Location:  Canary Islands, Spain
+   .:'`:. $@@@@@@@@2@@@$yy$4@@$           Uptime:    19 years
+    ```::!4@@@@@@@4@@@@@@@@@@@F           Languages: EN, NL, ES (+ some DE & FR)
+      ,```.0@@@F@M@$@@@@@@@@@F            OS:        macOS / NixOS
+        ``':R@@$Z4F@W@1@@@@@F  -..,       Editor:    Neovim
+         .```~R@@@@@@@@@@@F~.::``'7       Terminal:  Ghostty
+           ;``::7F#PPFF~`:`````-`!        Building:  Lynk, my own browser
+            .``::`':```'``"               Web:       https://formalsnake.dev
+            .:::`:'``
+           ..`:::`:!
+           \:`::``'
 ```
-
-<br clear="right"/>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[⚙️ FormalConf](https://github.com/FormalSnake/formalconf)**
-<br>
-A declarative config manager for MacOS and Linux
-
-</td>
-<td width="50%">
-
-**[🌐 Lynk Browser](https://github.com/FormalSnake/Lynk-releases)**
-<br>
-A modern, Arc-inspired browser built with Electron. Fast, private, and extensible.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[⚙️ Dotfiles](https://github.com/FormalSnake/dotfiles)**
-<br>
-My personal system configurations. Arch Linux setup with hyprland, featuring a clean and minimal aesthetic.
-
-</td>
-<td width="50%">
-
-**[🎨 ProgressiveBlur](https://github.com/FormalSnake/ProgressiveBlur)**
-<br>
-Figma plugin for generating beautiful progressive blur effects on your designs.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🎯 Current Focus
-
-`🔎 Finishing first year at ULPGC` · `🏝️ Building CanaryPulse` · `🧠 Exploring AI agents` · `📖 Getting more organized`
-
-<br>
-
-<sub>✨ Building from the Canary Islands with ☀️</sub>
-
-</div>
